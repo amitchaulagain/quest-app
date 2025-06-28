@@ -8,6 +8,6 @@ logs
 old
 
 secrets.py
-config/personals.py
+#config/personals.py
 .venv
 apikeys.py
